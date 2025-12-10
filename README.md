@@ -201,11 +201,11 @@ python backend/scripts/test_llm.py
 
 ## 📈 **Metrics & Targets**
 
-* Retrieval recall@k ≥ **0.70**
+* Retrieval recall@k ≥ **0.82**
 * End-to-end latency < **3 seconds**
 * STT accuracy > **90%**
 * TTS success rate **100%**
-* Zero hallucination (strict citation-based generation)
+* **95%** citation-based generation
 
 ---
 
